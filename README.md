@@ -14,3 +14,4 @@ My portfolio for data analyst role
 10. Essential Python for Data Analyst
 11. Dashboard
    
+You can find me on LinkedIn : www.linkedin.com/in/yamaphorn-hempanom-153b26224
