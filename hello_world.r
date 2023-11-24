@@ -1,3 +1,3 @@
-# my first R program
+# My first R program
 
 print("hello world")
